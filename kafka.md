@@ -18,7 +18,7 @@ Here is one log message:
 ^(?<time>\[[0-9]+-[0-9]+-[0-9]+ [0-9]+:[0-9]+:[0-9]+,[0-9]+\])\s*(?<level>\S+)\s*(?<message>[\s\S]*?)\s*(?=\g<time>|\Z)
 ```
 
-http://rubular.com/r/PX1KVfvHHT
+You can see it in action here: http://rubular.com/r/PX1KVfvHHT
 
 ```
 time	[2018-07-23 18:14:23,854]
